@@ -1,8 +1,8 @@
 ##David Bebb
-====================================================
 
 Inspired by technology, motivated by finding solutions and passionate about living in a world where things work as they should. An enthusiastic science communicator, I helped to realise  and develop the first hands-on science museum in Cambridge. Seeking a developer role in which I can continue to build my skills in TDD/BDD and software craftsmanship, whilst making a tangible contribution to a software team.
 
+====================================================
 ##Skills
 
 ###Software design and development
@@ -28,7 +28,7 @@ Maximised productivity and rapport between different groups of volunteers by mon
 Guided training and development of novice archers as part of a novice development team within Cambridge University Bowmen.
 
 
-
+====================================================
 ##Employment and Experience
 
 ###Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
@@ -51,7 +51,7 @@ Contributed to development of software tools for chemical informatics, primarily
 Year in Industry (YinI) student in the 3He Neutron spin filter group. Developed automated data analysis tool using Matlab. This reduced time spent analysing routine data by around 80%.
 
 
-
+====================================================
 ##Education
 
 ### 2015 - Makers Academy
