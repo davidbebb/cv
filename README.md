@@ -31,37 +31,37 @@ Guided training and development of novice archers as part of a novice developmen
 ====================================================
 ##Employment and Experience
 
-###Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
+####Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
 Start up science education charity. Fulfilled a number of roles, as required by changing nature of the venture. These included Schools Co-ordinator, Facilities manager, IT systems procurement and support, demonstration design and manufacture, large event co-ordinator, Managed pilot flagship out reach programme 'On the road'.
 
 
-###Sep. 11 – Aug. 12 - Lab_13 Scientist-in-Residence, Bowbridge Primary School, Newark, Nottinghamshire
+####Sep. 11 – Aug. 12 - Lab_13 Scientist-in-Residence, Bowbridge Primary School, Newark, Nottinghamshire
 Prepared and delivered interactive STEM activities for pupils in key stage 1 and 2. Worked with small group and full year-group audiences.
 
 
-###Mar. 11 - Cambridge Science Festival 2011
+####Mar. 11 - Cambridge Science Festival 2011
 Presented a series of lectures for school and public audiences.
 
 
-###Aug. 08 – Sep. 08 - Unilever Centre for Molecular Science Informatics, Cambridge
+####Aug. 08 – Sep. 08 - Unilever Centre for Molecular Science Informatics, Cambridge
 Contributed to development of software tools for chemical informatics, primarily using Java.
 
 
-###Jul. 05 – Aug. 06 - ISIS, Rutherford Appleton Laboratory, Oxfordshire
+####Jul. 05 – Aug. 06 - ISIS, Rutherford Appleton Laboratory, Oxfordshire
 Year in Industry (YinI) student in the 3He Neutron spin filter group. Developed automated data analysis tool using Matlab. This reduced time spent analysing routine data by around 80%.
 
 
 ====================================================
 ##Education
 
-### 2015 - Makers Academy
+####2015 - Makers Academy
 Intensive software development boot-camp.
 
 
-### 2006 – 2010 - University of Cambridge,  Homerton College
+####2006 – 2010 - University of Cambridge,  Homerton College
 Natural Sciences (Chemistry) MSci Hons (3), BA Hons (2.ii)
 
 
-### 1998 – 2005 - Welshpool High School, Welshpool
+####1998 – 2005 - Welshpool High School, Welshpool
 A-levels: Biology (A), Chemistry (A), Mathematics (B), Physics (A)
 GCSE: Nine A* – A including Maths and English
