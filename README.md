@@ -1,6 +1,6 @@
 David Bebb
 ===========================
-Cambridge educated, inspired by technology, motivated by  solutions and enjoys living in a world where things work as they should. An enthusiastic science communicator, I helped to develop the first hands-on science museum in Cambridge. Seeking a developer role in which I can continue to build my skills in TDD/BDD and software craftsmanship, whilst making a tangible contribution to a software team.
+Cambridge educated, inspired by technology and motivated by  solutions. Enjoys living in a world where things work as they should. An enthusiastic science communicator, I helped to develop the first hands-on science museum in Cambridge. Seeking a developer role in which I can continue to build my skills in TDD/BDD and software craftsmanship, whilst making a tangible contribution to a software team.
 
 ## Skills
 
