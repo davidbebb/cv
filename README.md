@@ -30,6 +30,9 @@ Guided training and development of novice archers as part of a novice developmen
 
 ## Employment and Experience
 
+#### Jan.15 - Present - Software developer, Serket, Cambridge
+NodeJS developer for medical technology startup. Implemented new end-to-end test and deployment suite.
+
 #### Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
 Start up science education charity. Fulfilled a number of roles, as required by changing nature of the venture. These included Schools Co-ordinator, Facilities manager, IT systems procurement and support, demonstration design and manufacture, large event co-ordinator, Managed pilot flagship out reach programme 'On the road'.
 
