@@ -30,7 +30,7 @@ Guided training and development of novice archers as part of a novice developmen
 
 ## Employment and Experience
 
-#### Jan.15 - Present - Software developer, Serket, Cambridge
+#### Jan.15 - Present (6 weeks fixed term contract)- Software developer, Serket, Cambridge
 NodeJS developer for medical technology startup. Implemented new end-to-end test and deployment suite.
 
 #### Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
