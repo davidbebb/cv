@@ -1,11 +1,16 @@
 David Bebb
 ===========================
-Cambridge educated, inspired by technology and motivated by  solutions. Enjoys living in a world where things work as they should. An enthusiastic science communicator, I helped to develop the first hands-on science museum in Cambridge. Seeking a developer role in which I can continue to build my skills in TDD/BDD and software craftsmanship, whilst making a tangible contribution to a software team.
+Cambridge educated, inspired by technology and motivated by solutions. Enjoys living in a world where things work as they should. An enthusiastic science communicator, I was a key member of the team that opened Cambridge's first interactive science museum.
 
 ## Skills
 
 ### Software design and development
-Recently completed Makers Academy, a software development boot-camp, heavily focused on agile methodologies and test driven design.
+
+Heavily involved in the design and implimentation of a series of highly modular RESTful APIs, interfaceing with mobile, desktop and embedded clients to deliver the <em>Healthera</em> medicine system.
+
+Designed and implemented user interface tool chain on Raspberry Pi, to provide seamless and robust hardware input integration for a graphical client application.
+
+Graduate of Makers Academy, a software development boot-camp, heavily focused on agile methodologies and test driven design.
 
 Designed a number of science demonstrations for Cambridge Science Centre using a text based parametric python cad/cam library.
 
@@ -26,12 +31,10 @@ Maximised productivity and rapport between different groups of volunteers by mon
 
 Guided training and development of novice archers as part of a novice development team within Cambridge University Bowmen.
 
-
-
 ## Employment and Experience
 
-#### Jan.15 - Present (6 weeks fixed term contract)- Software developer, Serket, Cambridge
-NodeJS developer for medical technology startup. Implemented new end-to-end test and deployment suite.
+#### Jan.15 - Present - Full stack software developer, Healthera, Cambridge
+Full stack developer for medical technology company. Key developer on a series of core busness apis, as well as implementing an end-to-end test and deployment suite.
 
 #### Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
 Start up science education charity. Fulfilled a number of roles, as required by changing nature of the venture. These included Schools Co-ordinator, Facilities manager, IT systems procurement and support, demonstration design and manufacture, large event co-ordinator, Managed pilot flagship out reach programme 'On the road'.
