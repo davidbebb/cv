@@ -6,7 +6,7 @@ Cambridge educated, inspired by technology and motivated by solutions. Enjoys li
 
 ### Software design and development
 
-Heavily involved in the design and implimentation of a series of highly modular RESTful APIs, interfaceing with mobile, desktop and embedded clients to deliver the <em>Healthera</em> medicine system.
+Heavily involved in the design and implementation of a series of highly modular RESTful APIs, interfacing with mobile, desktop and embedded clients to deliver the <em>Healthera</em> medicine system.
 
 Designed and implemented user interface tool chain on Raspberry Pi, to provide seamless and robust hardware input integration for a graphical client application.
 
@@ -34,10 +34,10 @@ Guided training and development of novice archers as part of a novice developmen
 ## Employment and Experience
 
 #### Jan.15 - Present - Full stack software developer, Healthera, Cambridge
-Full stack developer for medical technology company. Key developer on a series of core busness apis, as well as implementing an end-to-end test and deployment suite.
+Full stack developer for medical technology company. Key developer on a series of core business apis, as well as implementing an end-to-end test and deployment suite.
 
 #### Oct. 11 – Aug. 15 - Cambridge Science Centre, Cambridge
-Start up science education charity. Fulfilled a number of roles, as required by changing nature of the venture. These included Schools Co-ordinator, Facilities manager, IT systems procurement and support, demonstration design and manufacture, large event co-ordinator, Managed pilot flagship out reach programme 'On the road'.
+Start up science education charity. Fulfilled a number of roles, as required by changing nature of the venture. These included Schools Coordinator, Facilities manager, IT systems procurement and support, demonstration design and manufacture, large event coordinator, Managed pilot flagship outreach programme 'On the road'.
 
 
 #### Sep. 11 – Aug. 12 - Lab_13 Scientist-in-Residence, Bowbridge Primary School, Newark, Nottinghamshire
