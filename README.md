@@ -16,7 +16,7 @@ Designed a number of science demonstrations for Cambridge Science Centre using a
 
 
 ### Science outreach and presentation
-Wrote and presented the initial set of Cambridge Science Centre science shows and workshops as Schools Co-ordinator. Many of these are still in frequent use three years on.
+Wrote and presented the initial set of Cambridge Science Centre science shows and workshops as Schools Co-ordinator. Many of these are still in frequent use.
 
 
 ### Organisation and event management	 
@@ -26,7 +26,7 @@ Organised Chain Reaction, a large engineering outreach event bringing together o
 Complete a pilot programme for an experimental flagship outreach programme for Cambridge Science Centre.
 
 
-### Interpersonal and teamwork 				  		
+### Interpersonal and teamwork 							
 Maximised productivity and rapport between different groups of volunteers by monitoring and improving demonstrator well-being during the 2009 Cambridge Hands-On Science Summer Roadshow.
 
 Guided training and development of novice archers as part of a novice development team within Cambridge University Bowmen.
@@ -62,7 +62,7 @@ Year in Industry (YinI) student in the 3He Neutron spin filter group. Developed 
 Intensive software development boot-camp.
 
 
-#### 2006 – 2010 - University of Cambridge,  Homerton College
+#### 2006 – 2010 - University of Cambridge,	Homerton College
 Natural Sciences (Chemistry) MSci Hons (3), BA Hons (2.ii)
 
 
