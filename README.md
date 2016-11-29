@@ -12,7 +12,7 @@ Developed an extensible system to interpret medicine information from pharmacy d
 
 Designed and implemented user interface tool chain on Raspberry Pi, to provide seamless and robust hardware input integration for a graphical client application.
 
-Graduate of <em>Makers Academy</em>, a software development boot-camp, heavily focused on agile methodologies and test driven design. Completed the course as part of a team who developed a mobile-centred webapp, [Leftovers,](https://github.com/davidbebb/leftovers/blob/master/leftoversapp-nosound.mp4) using AngularJs and Firebase.
+Graduate of <em>Makers Academy</em>, a software development boot-camp, heavily focused on agile methodologies and test driven design. Completed the course as part of a team who developed a mobile-centred webapp, [Leftovers,](https://www.youtube.com/watch?v=ppVjjxgK4lg) using AngularJs and Firebase.
 
 Designed a number of science exhibits for Cambridge Science Centre using a text based parametric python cad/cam library.
 
